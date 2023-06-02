@@ -1,3 +1,6 @@
+// 遅延評価セグメント木
+// RSQ and RAQ
+
 template<class T>
 class SegmentTree {
     private:
